@@ -1,0 +1,10 @@
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\obj\Debug\Semana09_FunAlg_13126_Práctica.csproj.AssemblyReference.cache
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\obj\Debug\Semana09_FunAlg_13126_Práctica.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\bin\Debug\Semana09_FunAlg_13126_Práctica.exe.config
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\bin\Debug\Semana09_FunAlg_13126_Práctica.exe
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\bin\Debug\Semana09_FunAlg_13126_Práctica.pdb
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\bin\Debug\My_Biblioteca_J.dll
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\bin\Debug\My_Biblioteca_J.pdb
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\obj\Debug\Semana09.904816FD.Up2Date
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\obj\Debug\Semana09_FunAlg_13126_Práctica.exe
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\Semana09_FunAlg_13126_Práctica\obj\Debug\Semana09_FunAlg_13126_Práctica.pdb
