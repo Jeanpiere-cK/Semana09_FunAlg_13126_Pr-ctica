@@ -1,0 +1,6 @@
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\obj\Debug\My_Biblioteca_J.csproj.AssemblyReference.cache
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\obj\Debug\My_Biblioteca_J.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\bin\Debug\My_Biblioteca_J.dll
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\bin\Debug\My_Biblioteca_J.pdb
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\obj\Debug\My_Biblioteca_J.dll
+C:\Users\UCLABRED07\Documents\7343\SEMANA 9\Semana09_FunAlg_13126_Práctica\My_Biblioteca_J\obj\Debug\My_Biblioteca_J.pdb
